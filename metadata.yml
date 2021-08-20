@@ -1,0 +1,19 @@
+id: dummy_workflow
+emf_type: workflow
+emf_public: true
+emf_automatized: true
+emf_reproducible: true
+emf_draft: false
+edges: ''
+authors: vgranda
+authors_aff: CREAF
+resource_link: workflows/dummy_workflow
+thematic: dummy
+tags:
+- dummy
+- tururu
+- larara
+requirements: ''
+date: '2021-08-20'
+date_lastmod: '2021-08-20'
+
