@@ -44,4 +44,4 @@ jobs:
 
       - name: Collect metadata and update db
         run: |
-          R -e 'EMFtoolbox::collect_metadata()'
+          R -e 'EMFtoolbox::collect_metadata(.dry = FALSE)'
