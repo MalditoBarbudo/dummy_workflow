@@ -28,9 +28,9 @@ jobs:
 
       - name: Install packages
         run: |
-          R -e install.packages('remotes')
-          R -e remotes::install_github('emf-creaf/EMFtoolbox')
+          R -e 'install.packages('remotes')'
+          R -e 'remotes::install_github('emf-creaf/EMFtoolbox')'
 
       - name: Collect metadata and update db
         run: |
-          R -e EMFtoolbox::collect_metadata()
+          R -e 'EMFtoolbox::collect_metadata()'
