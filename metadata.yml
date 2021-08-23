@@ -4,7 +4,11 @@ emf_public: true
 emf_automatized: true
 emf_reproducible: true
 emf_draft: false
-edges: ''
+edges:
+- dummy_tech_doc
+- dummy_data
+- dummy_model
+- dummy_softwork
 authors: vgranda
 authors_aff: CREAF
 resource_link: workflows/dummy_workflow
@@ -15,5 +19,5 @@ tags:
 - larara
 requirements: ''
 date: '2021-08-20'
-date_lastmod: '2021-08-20'
+date_lastmod: '2021-08-23'
 
