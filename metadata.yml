@@ -4,7 +4,7 @@ emf_public: true
 emf_automatized: true
 emf_reproducible: true
 emf_draft: false
-edges:
+nodes:
 - dummy_tech_doc
 - dummy_data
 - dummy_model
