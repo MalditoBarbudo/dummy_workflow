@@ -1,5 +1,5 @@
 ---
-title: "dummy_workflow"
+title: "test_dummy_workflow"
 author: "vgranda"
 date: "8/24/2021"
 output: html_fragment
