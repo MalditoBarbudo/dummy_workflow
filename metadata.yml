@@ -10,7 +10,9 @@ nodes:
 - dummy_data
 - dummy_model
 - dummy_softwork
-authors: vgranda
+authors:
+- vgranda
+- emf
 authors_aff: CREAF
 resource_link: workflows/test_dummy_workflow
 thematic: dummy
