@@ -21,6 +21,8 @@ tags:
 - tururu
 - larara
 requirements: ''
+links:
+  url_doi: ''
 date: '2021-08-20'
 date_lastmod: '2021-08-23'
 description: A dummy workflow for testing automatization processes
